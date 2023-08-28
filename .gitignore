@@ -1,0 +1,4 @@
+.vscode/
+
+#Folder where the result of compiling the tex file is output.
+**/output/

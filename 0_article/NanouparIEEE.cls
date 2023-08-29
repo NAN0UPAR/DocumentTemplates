@@ -203,7 +203,7 @@ version={3.0},
 \def\@oddhead{\parbox{\textwidth}{\noindent{\color{grisMedio}\rule{\textwidth}{1.5pt}}\\\mbox{\fontsize{9.02pt}{10.8pt}\selectfont \@researchgroup}\\[-5pt]
 {\noindent\color{grisMedio}\rule{\textwidth}{0.5pt}}}}%
 \let\@evenhead\@oddhead
-\def\@oddfoot{\parbox[t]{\textwidth}{\hfill \footnotesize\@researchgroup \quad \thepage \ \includegraphics{logo.pdf} }}
+\def\@oddfoot{\parbox[t]{\textwidth}{\hfill \footnotesize\@researchgroup \quad \thepage \ \includegraphics{images/number_page_logo.pdf} }}
 \let\@evenfoot\@oddfoot}
 
 
@@ -214,8 +214,8 @@ version={3.0},
 	\def\@oddhead{\parbox{\textwidth}{\hfill
 			\fontsize{9.02pt}{10.8pt}\selectfont\itshape{\rightmark}\\[-6pt]
 			\noindent\color{grisMedio}\rule{\textwidth}{0.5pt}}}
-	\def\@evenfoot{\parbox[t]{\textwidth}{\footnotesize \selectfont \includegraphics{logo.pdf}\ \thepage \quad \@researchgroup}}
-	\def\@oddfoot{\parbox[t]{\textwidth}{\hfill \footnotesize\@researchgroup \quad \thepage \ \includegraphics{logo.pdf} }}
+	\def\@evenfoot{\parbox[t]{\textwidth}{\footnotesize \selectfont \includegraphics{images/number_page_logo.pdf}\ \thepage \quad \@researchgroup}}
+	\def\@oddfoot{\parbox[t]{\textwidth}{\hfill \footnotesize\@researchgroup \quad \thepage \ \includegraphics{images/number_page_logo.pdf} }}
 }
 
  
